@@ -15,6 +15,7 @@ Portugol
 ✔️ Início dos estudos em lógica
 
 🔄 Praticando exercícios diariamente
+
 🚀 Em desenvolvimento contínuo
 
 Sou estudante iniciando minha jornada na área de tecnologia, com foco em desenvolvimento de lógica de programação.
