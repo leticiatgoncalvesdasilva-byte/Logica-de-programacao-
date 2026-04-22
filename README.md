@@ -7,10 +7,13 @@ Este repositório foi desenvolvido para armazenar os exercícios e projetos elab
 Aqui você encontrará minha evolução prática na construção de algoritmos e resolução de problemas.
 
 🛠️ Tecnologias
+
 Linguagem C
+
 Portugol
 
 ✔️ Início dos estudos em lógica
+
 🔄 Praticando exercícios diariamente
 🚀 Em desenvolvimento contínuo
 
