@@ -1,29 +1,19 @@
-# Logica-de-programacao-
+READ ME
 
-Lógica de Programação
-�
 🚀 Em evolução constante | 📚 Repositório acadêmico 
 
 📌 Sobre
-Este repositório foi desenvolvido para armazenar os exercícios e projetos da disciplina de Lógica de Programação.
+Este repositório foi desenvolvido para armazenar os exercícios e projetos elaborados por mim.
 Aqui você encontrará minha evolução prática na construção de algoritmos e resolução de problemas.
-🎯 Objetivos
-Desenvolver raciocínio lógico
-Aprender programação em C
-Resolver problemas de forma estruturada
+
 🛠️ Tecnologias
 Linguagem C
 Portugol
-📂 Estrutura do repositório
-📁 Lista1
-📁 Lista2
-📁 Exercicios
-📈 Evolução
+
 ✔️ Início dos estudos em lógica
 🔄 Praticando exercícios diariamente
 🚀 Em desenvolvimento contínuo
-👩‍💻 Sobre mim
+
 Sou estudante iniciando minha jornada na área de tecnologia, com foco em desenvolvimento de lógica de programação.
 Busco evoluir constantemente através de prática e projetos, construindo uma base sólida para minha carreira.
-🔗 Contato
-GitHub: https://github.com/leticiatgc
+
